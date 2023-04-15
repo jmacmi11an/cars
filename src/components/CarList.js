@@ -25,7 +25,7 @@ function CarList() {
         </div>)
     })
 
-    return <div>CarList
+    return <div>
         {renderedCars}
         <hr />
     </div>
