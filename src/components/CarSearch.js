@@ -19,7 +19,7 @@ function CarSearch() {
             <input
                 className="input"
                 value={searchTerm}
-                onChage={handleChangeSearchTerm}
+                onChange={handleChangeSearchTerm}
             />
         </div>
     </div>
